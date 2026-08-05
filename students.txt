@@ -1,6 +1,5 @@
-Michelle - Computer Science
-Brian - AI Engineering
-Grace - Software Engineering
-Rose - Computer Science
-Caro - Cloud Computing
-Micheal - CyberSecurity
+Michelle
+Brian
+Grace
+Kevin
+sophia
