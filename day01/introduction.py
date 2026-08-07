@@ -1,4 +1,11 @@
 # Day 1 - AI Engineering Journey
+# Modify the program so it also prints:
+
+# Your university.
+# Your course.
+# Your graduation year.
+# Your dream job.
+# Your favorite programming language.
 
 name = "Michelle"
 career_goal = "AI Engineer"
