@@ -42,6 +42,18 @@ else:
 print("Hello,", name,"." "You are", age, "years old." "You are studying", course, "at the", university, "and your favorite programming language is", programming_language, ".")
 
 
+#Stretch Challenge
+
+# Ask the user for:
+
+# How many hours do you study per day?
+
+# If:
+
+# 5 or more → "Excellent consistency!"
+# 3–4 → "Great job! Keep improving."
+# Less than 3 → "Small daily improvements lead to big results."
+
 study_hours = int(input("How many hours do you study per day? "))
 if study_hours >= 5:
     print("Excellent consistency!")
