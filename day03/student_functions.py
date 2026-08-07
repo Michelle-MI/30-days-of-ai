@@ -1,9 +1,21 @@
 # Function 1
+# def greet_student(name):
+
+# Print a welcome message.
+
+from pyclbr import Function
+
 
 def greet_student(name):
   print("Welcome,", name, "to AI Engieering Program")
 
 # Function 2
+# def check_voting(age):
+
+# Return:
+
+# "Eligible to vote"
+# "Not eligible to vote"
 
 def check_voting(age):
   if age >= 18:
@@ -13,6 +25,13 @@ def check_voting(age):
 
 
 # Function 3
+# def study_feedback(hours):
+
+#Return:
+
+#Excellent consistency!
+# Great job! Keep improving.
+# Small daily improvements lead to big results.
 
 def study_feedback(hours):
   if hours >= 5:
@@ -22,6 +41,13 @@ def study_feedback(hours):
   else:
     print("Small daily improvements lead to big results.")
 
+# Then ask the user for:
+
+# Name
+# Age
+# Study hours
+
+# Call the functions and display the results.
 
 name = input("What is your name: ")
 age = int(input("How old are you: "))
@@ -33,6 +59,17 @@ study_feedback(hours)
 
 
 # Stretch challenge
+# Create:
+
+# def calculate_average(math, science, english):
+
+# Return the average.
+
+# Then determine:
+
+# Average ≥ 70 → Excellent
+# Average ≥ 50 → Good
+# Otherwise → Keep practicing
 
 def calculate_average(math, science, english):
  total = math + science + english

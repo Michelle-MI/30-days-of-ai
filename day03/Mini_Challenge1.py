@@ -10,7 +10,7 @@
 # Keep learning!
 # Stay consistent!
 # You are becoming an AI Engineer!
-
+ 
 # Call the function.
 
 def encourage():
