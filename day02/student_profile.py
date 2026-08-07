@@ -1,4 +1,25 @@
 # Today's Project
+# Create a program called:
+
+# student_profile.py
+
+# Requirements:
+
+# Ask the user for:
+# Name
+# Age
+# University
+# Course
+# Favorite programming language
+# Print a beautiful summary.
+# If age is 18 or older, print:
+#You are eligible to vote.
+
+#Otherwise print:
+
+#You are not yet eligible to vote.
+#Finally print:
+#Thank you for using the Student Profile Generator!
 
 name = input("What is your name? ")
 age = int(input("How old are you? "))
