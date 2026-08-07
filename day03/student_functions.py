@@ -57,7 +57,6 @@ greet_student(name)
 check_voting(age)
 study_feedback(hours)
 
-
 # Stretch challenge
 # Create:
 
